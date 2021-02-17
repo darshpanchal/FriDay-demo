@@ -6,9 +6,7 @@
 - numpy==1.20.1
 - scipy==1.4.1 
 - tflite_runtime==2.5.0
-- Get mel_features.py at this [link]. 
-
-[link] : https://github.com/google-coral/project-keyword-spotter/blob/master/mel_features.py
+- Get mel_features.py at this [link](https://github.com/google-coral/project-keyword-spotter/blob/master/mel_features.py).
 
 ### Usage:
 
